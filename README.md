@@ -1,2 +1,2 @@
 # dsvn
-subversion tool with a GUI based on dialog(1)
+subversion tool with a GUI based on dialog(3)
